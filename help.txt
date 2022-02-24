@@ -1,0 +1,33 @@
+Hello! Here some commands:
+
+/update - last updates
+/help - help message
+/advice - advice of a day
+/anime - random anime title
+/manga - random manga title
+/uvid - random youtube video
+-anime - anime search
+-manga - manga search
+-gog - google search
+-utube - youtube search
+-adv - send advice or report bugs to creator
+
+Put any manga/anime title after "-manga" or "-anime" for search
+
+/art - show anime art
+/azurlane - show azurlane anime art
+/blade - show anime art
+/darling - show darling in the franxx anime art
+/genshin - show genshin art
+/neko - show neko art
+/rezero - show rezero anime art
+/succubs - show succubs art
+/tate - show tate no yusha anime art
+/tensura - show tensura anime art
+/vtubers - show vtubers art
+
+/rus - translate bot language to russian
+/eng - translate bot language to english
+
+You also can send me any picture and i convert it to cartoon!
+And even more: send me voice messages for japanese translation!
